@@ -1,4 +1,4 @@
-![Everythingn is connected](https://github.com/Bobpick/Bobpick/assets/9963657/048bc4e7-29e7-46fe-ab95-c0e936d1c2c6)
+![Everything is connected](https://github.com/Bobpick/Bobpick/assets/9963657/048bc4e7-29e7-46fe-ab95-c0e936d1c2c6)
 # Predictive Analysis Programs with Python!
 
 ## Overview
