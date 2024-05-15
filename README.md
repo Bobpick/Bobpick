@@ -1,62 +1,42 @@
-![Everything is connected](https://github.com/Bobpick/Bobpick/assets/9963657/048bc4e7-29e7-46fe-ab95-c0e936d1c2c6)
-# Predictive Analysis Programs with Python!
+# Hi there, I'm Robert Pickett
 
-## Overview
+I'm a passionate Business Intelligence Analyst with a love for examining and building things that make a difference.
 
-Welcome to the repository containing my predictive analysis programs written in Python! This repository houses a collection of Python scripts and Jupyter notebooks focusing on predictive analysis tasks using machine learning techniques. The programs are primarily built using popular libraries such as TensorFlow, NumPy, Pandas, and Scikit-learn.
+## About Me
 
-## Key Features
+- ✨ I'm fascinated by the intersection of Artificial Intelligence and making it useful in daily life.
+- 🔭 As an Amatuery Radio General License holder, I'm currently working on a broadband SDR (software defined radio) programs to scour local radio traffic for relevant and important events.
+- 🌱 I'm always learning and exploring new technologies, especially in the realm of machine learning.
+- 📫 How to reach me: bobpickettsr@gmail.com| [[LinkedIn]](https://www.linkedin.com/in/robert-pickett-sr/)
 
-- **Machine Learning Models**: The programs include various machine learning models implemented using TensorFlow, ranging from simple linear regression to complex deep learning models like neural networks.
+## Skills
 
-- **Data Preprocessing**: Extensive data preprocessing steps are incorporated, including data cleaning, feature engineering, and normalization, to prepare the data for modeling.
+**Core Skills:**
 
-- **Evaluation and Optimization**: The performance of the models is evaluated using appropriate metrics, and optimization techniques such as hyperparameter tuning and cross-validation are applied to improve model accuracy.
+- Programming Languages: Python, SQL, HTML, Qbasic
+- Machine Learning: TensorFlow, Random Forest, RNN
+- Using Large Language Models (LLM) for daily use
 
-## Technologies Used
+**Other Interests:**
 
-- Python
-- TensorFlow
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Seaborn
+- Amateur Radio General Licence holder.
+  
+## Projects
 
-## Usage
+### SDR Software Development
 
-1. Clone the repository:
+- **Apocalypse:**  
+   - **Description:** I'm building a cutting-edge software-defined radio (SDR) system to scan local radio traffic during a disaster to find people in disress and direct help to their location.
+   - **My Role:**  I'm responsible for design and implementation of the software.
+   - **Tech Stack:** RTL-SDR, GNU Radio
 
-    ```
-    git clone https://github.com/your-username/predictive-analysis.git
-    ```
+### Machine Learning Explorations
 
-2. Navigate to the project directory:
+- **ML Lottery:**
+   - **Description:** To test the theory that machine learning can predict winning lottery numbers
+   - **Techniques Used:** TensorFlow, Random Forest, etc
+   - **Results:** No, the use of ML does not ensure finding winning lottery numbers
 
-    ```
-    cd predictive-analysis
-    ```
+## Let's Connect!
 
-3. Run the Python scripts or Jupyter notebooks:
-
-    ```
-    python script.py
-    ```
-
-    ```
-    jupyter notebook notebook.ipynb
-    ```
-
-## Folder Structure
-
-- **/datasets**: Contains sample datasets used in the programs.
-- **/scripts**: Houses standalone Python scripts for predictive analysis tasks.
-- **/notebooks**: Contains Jupyter notebooks for detailed analysis and visualization.
-
-## Contribution
-
-Contributions to enhance the functionality, add new features, or fix bugs are welcome! Feel free to submit pull requests or open issues for any suggestions or improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out!
