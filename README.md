@@ -23,13 +23,19 @@ I'm a passionate Business Intelligence Analyst with a love for examining and bui
   
 ## Projects
 
-### SDR Software Development
+### Customer Analysis Segmentation for Zomato
 
-- **Apocalypse:**  
-   - **Description:** I'm building a cutting-edge software-defined radio (SDR) system to scan local radio traffic during a disaster to find people in disress and direct help to their location.
-   - **My Role:**  I'm responsible for design and implementation of the software.
-   - **Tech Stack:** RTL-SDR, GNU Radio
+- **Description:** 1. Contributed to Project Leadership: Collaborated with a team of X data analysts and researchers throughout the customer analysis segmentation project. Played a key role in coordinating efforts, ensuring adherence to project objectives, and facilitating communication among team members, resulting in a comprehensive analysis of Zomato's customer base.
 
+2. Utilized Advanced Analytical Techniques:  Employed sophisticated segmentation analysis techniques, including clustering algorithms and statistical methods, to identify X distinct customer segments. This led to actionable insights that informed targeted marketing strategies and product/service enhancements, contributing to a X% increase in customer engagement.
+
+3. Ensured Data Quality and Accuracy: Implemented rigorous data cleaning and validation procedures to eliminate inconsistencies or errors in the dataset. This meticulous approach resulted in a dataset with X% improved accuracy, enhancing the reliability of the analysis findings and strategic decision-making processes.
+
+4. Developed Interactive Visualizations: Leveraged tools like Tableau to create interactive and visually appealing dashboards showcasing key insights and trends in Zomato's customer segments. These visualizations facilitated easy interpretation of complex data, enabling stakeholders to make informed decisions based on X% more accessible information.
+
+5. Generated Actionable Recommendations: Synthesized findings into a comprehensive report outlining actionable recommendations for Zomato's business strategy. Recommendations, such as targeted promotions and pricing strategies, community engagement initiatives, and personalized marketing campaigns, have since been implemented, resulting in a X% increase in sales revenue.
+   
+   
 ### Machine Learning Explorations
 
 - **ML Lottery:**
