@@ -21,7 +21,7 @@ I'm a passionate Business Intelligence Analyst with a love for examining and bui
 
 - Amateur Radio General Licence holder.
   
-## Projects
+## Feature Projects
 
 ### Customer Analysis Segmentation for Zomato
 
@@ -35,14 +35,6 @@ I'm a passionate Business Intelligence Analyst with a love for examining and bui
 
 5. Generated Actionable Recommendations: Synthesized findings into a comprehensive report outlining actionable recommendations for Zomato's business strategy. Recommendations, such as targeted promotions and pricing strategies, community engagement initiatives, and personalized marketing campaigns, have since been implemented, resulting in a X% increase in sales revenue.
    
-   
-### Machine Learning Explorations
-
-- **ML Lottery:**
-   - **Description:** To test the theory that machine learning can predict winning lottery numbers
-   - **Techniques Used:** TensorFlow, Random Forest, etc
-   - **Results:** No, the use of ML does not ensure finding winning lottery numbers
-
 ## Let's Connect!
 
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out!
