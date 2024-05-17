@@ -21,7 +21,7 @@ I'm a passionate Business Intelligence Analyst with a love for examining and bui
 
 - Amateur Radio General Licence holder.
   
-## Feature Projects
+## Feature Project
 
 ### Customer Analysis Segmentation for Zomato
 
