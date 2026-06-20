@@ -7,7 +7,7 @@ I'm a passionate Business Intelligence Analyst with a love for examining and bui
 - ✨ I'm fascinated by the intersection of Artificial Intelligence and making it useful in daily life.
 - 🔭 As an Amatuer Radio General License holder, I'm currently working on a broadband SDR (software defined radio) programs to scour local radio traffic for relevant and important events.
 - 🌱 I'm always learning and exploring new technologies, especially in the realm of machine learning.
-- 📫 How to reach me: bobpickettsr@gmail.com| [[LinkedIn]](https://www.linkedin.com/in/robert-pickett-sr/)
+- 📫 How to reach me: bobpickettsr@abcmail.com| [[LinkedIn]](https://www.linkedin.com/in/robert-pickett-sr/)
 
 ## Skills
 
